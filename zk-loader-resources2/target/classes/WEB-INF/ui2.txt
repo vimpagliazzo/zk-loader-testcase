@@ -1,0 +1,1 @@
+I use this file to find out where are the classicui resources in the classpath

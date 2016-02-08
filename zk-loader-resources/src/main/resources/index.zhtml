@@ -1,0 +1,10 @@
+<zk xmlns:zk="zk" xmlns:z="zul" xmlns:n="native" xmlns:w="client">
+    <html>
+    <n:head>
+        <n:title>Loader Test</n:title>
+    </n:head>
+    <n:body>
+        <z:include src="combobox.zul" />
+    </n:body>
+    </html>
+</zk>

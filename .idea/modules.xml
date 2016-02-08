@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zk-loader-main/zk-loader-main.iml" filepath="$PROJECT_DIR$/zk-loader-main/zk-loader-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zk-loader-resources/zk-loader-resources.iml" filepath="$PROJECT_DIR$/zk-loader-resources/zk-loader-resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zk-loader-resources2/zk-loader-resources2.iml" filepath="$PROJECT_DIR$/zk-loader-resources2/zk-loader-resources2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zk-loader-runner/zk-loader-runner.iml" filepath="$PROJECT_DIR$/zk-loader-runner/zk-loader-runner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zk-loader-test.iml" filepath="$PROJECT_DIR$/zk-loader-test.iml" />
+    </modules>
+  </component>
+</project>
